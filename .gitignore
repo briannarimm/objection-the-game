@@ -1,0 +1,75 @@
+# --- macOS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# --- Windows / Linux ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*~
+.directory
+
+# --- Editors and IDEs ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+
+# --- Ren'Py build output and runtime files ---
+*.rpyc
+*.rpymc
+*.rpyb
+game/cache/
+game/saves/
+saves/
+log.txt
+errors.txt
+traceback.txt
+files.txt
+persistent
+tmp/
+dists/
+*-dists/
+android.keystore
+bundle.keystore
+project.json
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# --- Secrets and local configuration ---
+.env
+.env.*
+*.key
+*.pem
+secrets.*
+game/api_key.txt
+api_key.txt
+
+# --- LLM / AI assistant files ---
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+AGENTS.md
+GEMINI.md
+.gemini/
+.cursor/
+.cursorrules
+.cursorignore
+.windsurf/
+.windsurfrules
+.aider*
+.continue/
+.codeium/
+.github/copilot-instructions.md
+.clinerules
+.roo/
