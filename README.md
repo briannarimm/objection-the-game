@@ -4,6 +4,8 @@ Objection! is a courtroom party game for two teams made using Claude Code. Playe
 
 The game is built with [Ren'Py](https://www.renpy.org/), a free engine for visual novels. It runs on Windows, macOS, and Linux.
 
+> **Note:** This project was "vibe coded". The author wrote most of the code by describing the wanted result to an AI coding assistant (Claude Code) and accepting the generated code, with limited line-by-line review. The code can contain errors and has not been fully tested or audited. Use it at your own risk.
+
 ## Contents
 
 - [How the game works](#how-the-game-works)
