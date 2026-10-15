@@ -1,6 +1,6 @@
 # Objection!
 
-Objection! is a courtroom party game for two teams. Players argue made-up legal cases in front of a judge. An AI model (Claude) acts as the judge and writes the final ruling.
+Objection! is a courtroom party game for two teams made using Claude Code. Players argue made-up legal cases in front of a judge. An AI model (Claude) acts as the judge and writes the final ruling.
 
 The game is built with [Ren'Py](https://www.renpy.org/), a free engine for visual novels. It runs on Windows, macOS, and Linux.
 
